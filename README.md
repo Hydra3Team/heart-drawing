@@ -2,12 +2,12 @@
 
 ## OutPut :
 
-### hbd.py
+### [hbd.py](#hbd)
 
 ![Video](https://github.com/Hydra3Team/heart-drawing/blob/main/HBD1.gif)
 #
 
-### hbd2.py
+### [hbd2.py](#hbd2)
 ![Video](https://github.com/Hydra3Team/heart-drawing/blob/main/HBD2.gif)
 
 ## Installation 
@@ -16,18 +16,12 @@
 
 #
 
-### If you using termux or linux You could install python with commends:
+### If you using linux You could install python with commends:
+  - If u using [Android click here](#Android)
 
 #
 
-#### Termux 
-```
-pkg install python -y 
-```
-
-#
-
-#### Linux 
+#### Linux  ( Ubuntu - Debian - Kali - etc.. )
 ```
 sudo apt install python3
 ```
@@ -37,7 +31,7 @@ sudo apt install python3
 #### then you should install turtle lib :
 
 ```
-pip install turtle
+pip3 install turtle
 ```
 
 ## Usage
@@ -50,16 +44,30 @@ git clone https://github.com/Hydra3Team/heart-drawing.git
 cd heart-drawing
 ```
 
-### hbd.py
+### hbd
 ```
 Python3 hbd.py
 ```
 #
 
-### hbd2.py
+### hbd2
 ```
 python3 hbd2.py
 ```
+#
+
+### Android
+
+### You can just click on "run" then you can draw a hear 
+### HBD:
+[click here](https://replit.com/@Hydra3Team/HBD#main.py)
+
+#
+
+### HBD2:
+[click here](https://replit.com/@Hydra3Team/HBD2#main.py)
+
+#
 
 ### 📢 Find US elsewhere :
 <p align="center">
